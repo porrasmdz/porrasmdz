@@ -40,4 +40,4 @@ Idiomas:
 Si deseas saber más sobre mi trabajo o colaborar en un proyecto, no dudes en contactarme:  
 
 Correo electrónico: aporras@espol.edu.ec ✉️  
-Teléfono: [+593 95 893 8256 📱](https://wa.me/593958938256) 📱  
+Teléfono: [+593 95 893 8256 📱](https://wa.me/593958938256) 
