@@ -32,13 +32,12 @@ Idiomas:
   - Alemán ⭐☆☆☆☆
 
 ## Intereses y Pasiones
-* Tecnología 💻: Apasionado por las últimas tendencias en software y hardware, disfruto explorando nuevas herramientas que pueden optimizar procesos y mejorar la eficiencia de mis soluciones.
-* Diseño Creativo 🎨: Me encanta experimentar con diseño gráfico y diseño web a través de múltiples herramientas que complementen mi proceso de desarrollo de software.
+* Tecnología 💻: Disfruto explorando nuevas herramientas que pueden optimizar procesos y mejorar la eficiencia de mis proyectos personales.
+* Diseño Creativo 🎨: Me encanta experimentar con herramientas que complementen mi proceso de diseño en el desarrollo de software y fuera de él.
 * Deporte 🏐: Práctica ocasional de actividades deportivas como hobby, especialmente el volleyball y el atletismo.
 * Aprendizaje Continuo 📚: Siempre busco oportunidades para aprender cosas nuevas más allá de mi área, por ejemplo, idiomas, diseño gráfico y música.
 
 Si deseas saber más sobre mi trabajo o colaborar en un proyecto, no dudes en contactarme:  
 
 Correo electrónico: aporras@espol.edu.ec ✉️  
-LinkedIn: [enlace a mi perfil] 🔗  
-Teléfono: +593 95 893 8256 📱  
+Teléfono: [+593 95 893 8256 📱](https://wa.me/593958938256) 📱  
