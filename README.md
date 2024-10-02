@@ -1,4 +1,4 @@
-#Acerca de Mí
+# Acerca de Mí
 ## Información Personal 👤
 Hola! 
 Soy Andrés, Desarrollador Web con base en guayaquil. Mi enfoque se centra en el desarrollo web con especialidad en frontend. A lo largo de mi carrera, he tenido la oportunidad de trabajar con diversos clientes en modalidad freelance para el desarrollo de soluciones tecnológicas.
