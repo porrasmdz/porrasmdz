@@ -22,9 +22,9 @@ Técnicas:
 - Microservicios: ⭐⭐☆☆☆
  
 Blandas: 
- - Facilidad para trabajar en equipo
- - Actitudes de liderazgo
- - Comunicación honesta y abierta
+ - Facilidad para trabajar en equipo ⭐⭐⭐⭐⭐
+ - Actitudes de liderazgo ⭐⭐⭐⭐⭐
+ - Comunicación honesta y abierta ⭐⭐⭐⭐⭐
 
 Idiomas: 
   - Inglés ⭐⭐⭐⭐⭐
